@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+  }
+
+h1 {
+    color: green;
+}
+
+  p{
+    color: blue;
+    font-size: 20px;
+  }
+
+  span{
+    color: blue;
+    font-size: 20px;
+  }
+
+
+  .container {
+    margin-top: 50px;
+  }
+
+
+  .question {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  .question {
+    align-items: center;
+  }
+
+  .answer-input {
+    margin-bottom: 20px;
+    width: 500px;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid red;
+  }
+
+
+  button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
